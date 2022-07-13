@@ -3,7 +3,7 @@ public class Main {
 
         int tiket = 1000;
         int bonus;
-        bonus = tiket/20;
+        bonus = tiket / 20;
         System.out.println(bonus);
 
     }
